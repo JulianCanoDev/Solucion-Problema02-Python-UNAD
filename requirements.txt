@@ -1,0 +1,3 @@
+# Entorno base para Fundamentos de Programación - Fase 5
+# No se requieren librerías externas (Standard Library únicamente)
+python_version >= 3.10
